@@ -1,4 +1,3 @@
-
 matches:
   # UUID, lowercase.
   - trigger: ":uuid"
